@@ -1,0 +1,13 @@
+.marginCard{
+    margin-top: 5%;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.red {
+    color: red;
+  }

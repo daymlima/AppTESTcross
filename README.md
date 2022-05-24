@@ -2,7 +2,7 @@
 
 
 ### Baixando a aplicação
-- `git clone https://github.com/daymlima/AppTESTcross.git
+- `git clone https://github.com/daymlima/AppTESTcross.git`
 
 ### Instalando as dependencias
 - `cd app-front-13`
